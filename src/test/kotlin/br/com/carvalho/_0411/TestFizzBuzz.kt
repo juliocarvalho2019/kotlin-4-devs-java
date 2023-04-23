@@ -1,8 +1,8 @@
 package br.com.carvalho._0411
 
 import br.com.carvalho.section04._0411.fizzBuzz
+import org.amshove.kluent.shouldBeEqualTo
 import org.junit.jupiter.api.Test
-
 
 /*
 private fun fizzBuzz(n: Int): List<String> {
@@ -28,8 +28,4 @@ class TestFizzBuzz {
 
         fizzBuzz(16) shouldBeEqualTo list
     }
-}
-
-private infix fun <E> List<E>.shouldBeEqualTo(listOf: List<E>) {
-
 }
