@@ -3,6 +3,7 @@ package br.com.carvalho.section08._0804
 fun closureMaker(): () -> Unit {
     var num = 0
     return { println(num++) }
+    
 }
 
 fun main() {
