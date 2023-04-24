@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.carvalho._0411.TestFizzBuzz" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-04-23T18:01:58" hostname="DESKTOP-3LQDFQ7" time="0.086">
-  <properties/>
-  <testcase name="Calling fizzbuzz with &quot;5&quot; returns list with 5 items()" classname="br.com.carvalho._0411.TestFizzBuzz" time="0.084"/>
-  <testcase name="Calling fizzbuzz with 16 returns out the correct values()" classname="br.com.carvalho._0411.TestFizzBuzz" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
